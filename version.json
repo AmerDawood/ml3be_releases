@@ -1,7 +1,7 @@
 {
   "version": "v1.0.19",
   "min_version": "1.0.19",
-  "force_update": true,
+  "force_update": false,
   "download_url": "https://github.com/AmerDawood/ml3be_releases/releases/latest/download/app-release.apk",
-  "release_notes": "تحديث v1.0.19"
+  "release_notes": "إصدار v1.0.19"
 }
