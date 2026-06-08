@@ -1,7 +1,7 @@
 {
-  "version": "v1.0.23",
-  "min_version": "1.0.23",
+  "version": "v1.0.26",
+  "min_version": "1.0.26",
   "force_update": false,
   "download_url": "https://github.com/AmerDawood/ml3be_releases/releases/latest/download/app-release.apk",
-  "release_notes": "إصدار v1.0.23"
+  "release_notes": "إصدار v1.0.26"
 }
